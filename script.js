@@ -1,4 +1,7 @@
-const h2 = document.createElement("h2");
-h2.textContent = "";
+<form onsubmit="return false">
+</form>
 
-document.querySelector("body").appendChild(h2);
+function isNotEmpty(value) {
+    if (value == null || typeof value == 'undefined' ) return false;
+    return (value.length > 0);
+   }
