@@ -8,16 +8,15 @@ margin-left: 9.5%;
 
 }
 
-#photo {
+#profile {
     margin-left: 26.5%
 }
 
+
 .row {
-    font-family: arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     font-size: smaller;
     color: black;
-
-
 }
 
 .column {
@@ -32,13 +31,6 @@ margin-left: 9.5%;
     margin-left: 10%;
   }
 
-#sociallinks {
-    height: 30px;
-    width: 30px; 
-
-}
-
-
 input[type=text], select, textarea {
     width: 70%; /* Full width */
     padding: 7px; /* Some padding */ 
@@ -48,7 +40,7 @@ input[type=text], select, textarea {
     margin-bottom: 16px; /* Bottom margin */
     resize: vertical; /* Allow the user to vertically resize the textarea (not horizontally) */
     font-size: smaller;
-    font-family: Arial, sans-serif
+    font-family: 'Courier New', Courier, monospace;
   
 }
   
@@ -61,7 +53,7 @@ input[type=text], select, textarea {
     border-radius: 4px;
     cursor: pointer;
     font-size: smaller;
-    font-family: Arial, sans-serif
+    font-family: 'Courier New', Courier, monospace;
   }
   
   /* When moving the mouse over the submit button, add a darker green color */
@@ -74,5 +66,7 @@ input[type=text], select, textarea {
     border-radius: 5px;
     padding: 20px;
     font-size: smaller;
-    font-family: Arial, sans-serif
+    font-family: 'Courier New', Courier, monospace;
   }
+
+ 
